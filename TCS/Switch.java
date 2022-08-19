@@ -22,7 +22,7 @@ public static void main(String[] args) {
 	switch (channel) {
 	
 	case 1:
-		System.out.println("sunmusic");
+		System.out.println("sunmusic,rajmusic,kmuisc");
 		
 		break;2
 
